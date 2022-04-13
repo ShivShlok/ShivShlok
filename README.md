@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShivShlok
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and R Programming
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Data analysit,Data engineer
+- 📫 How to reach me @lordshiva080600@gmail.com
 
 <!---
 ShivShlok/ShivShlok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
